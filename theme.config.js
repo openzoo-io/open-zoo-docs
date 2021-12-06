@@ -4,9 +4,10 @@ export default {
   titleSuffix: ' – Nextra',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <img src="/openzoologo.png"/>
+      <span style={{fontSize:22}} className="mr-2 ml-2 font-extrabold hidden md:inline">OPENZOO</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next.js Static Site Generator
+        DOCUMENTS
       </span>
     </>
   ),
