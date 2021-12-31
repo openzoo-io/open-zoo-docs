@@ -63,6 +63,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © OpenZoo team.</>,
+  footerText: <> {new Date().getFullYear()} © OpenZoo team.</>,
   unstable_faviconGlyph: '👋',
 }
