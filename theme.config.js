@@ -18,12 +18,12 @@ export default {
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
       <meta name="description" content="Nextra: the Next.js site builder" />
-      <meta name="og:description" content="Nextra: the Next.js site builder" />
+      <meta name="og:description" content="OpenZoo is the NFT Marketplace of the Zoo Ecosystem, which features both artworks and game assets." />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://docs.openzoo.io/openzoodocs2.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
+      <meta name="og:title" content="OpenZoo: Documentation" />
       <meta name="og:image" content="https://docs.openzoo.io/openzoodocs2.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
