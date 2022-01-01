@@ -20,11 +20,11 @@ export default {
       <meta name="description" content="Nextra: the Next.js site builder" />
       <meta name="og:description" content="Nextra: the Next.js site builder" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://docs.openzoo.io/openzoodocs.png" />
+      <meta name="twitter:image" content="https://docs.openzoo.io/openzoodocs2.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
       <meta name="og:title" content="Nextra: Next.js static site generator" />
-      <meta name="og:image" content="https://docs.openzoo.io/openzoodocs.png" />
+      <meta name="og:image" content="https://docs.openzoo.io/openzoodocs2.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
         rel="apple-touch-icon"
