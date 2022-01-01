@@ -24,12 +24,12 @@ export default {
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
       <meta name="og:title" content="Nextra: Next.js static site generator" />
-      <meta name="og:image" content="https://docs.openzoo.io/imageopenzoologo.png" />
+      <meta name="og:image" content="https://docs.openzoo.io/openzoologo.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
-        href="/imageopenzoologo.png"
+        href="/apple-icon-180x180.png"
       />
       <link
         rel="icon"
