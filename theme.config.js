@@ -29,7 +29,7 @@ export default {
       <link
         rel="apple-touch-icon"
         sizes="180x180"
-        href="/apple-icon-180x180.png"
+        href="/openzoologo.png"
       />
       <link
         rel="icon"
