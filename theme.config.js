@@ -29,31 +29,31 @@ export default {
       <link
         rel="apple-touch-icon"
         sizes="180x180"
-        href="/openzoo180x180.png"
+        href="/apple-icon-180x180.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="192x192"
-        href="/openzoo192x192.png"
+        href="/android-icon-192x192.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="32x32"
-        href="/openzoo32x32.png"
+        href="/favicon-32x32.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="96x96"
-        href="/openzoo96x96.png"
+        href="/favicon-96x96.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="16x16"
-        href="/openzoo16x16.png"
+        href="/favicon-16x16.png"
       />
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     </>
