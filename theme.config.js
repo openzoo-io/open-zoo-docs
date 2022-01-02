@@ -25,7 +25,7 @@ export default {
       <meta name="twitter:url" content="https://nextra.vercel.app" />
       <meta name="og:title" content="OpenZoo: Documentation" />
       <meta name="og:image" content="https://docs.openzoo.io/openzoodocs2.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="apple-mobile-web-app-title" content="OpenZoo" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
