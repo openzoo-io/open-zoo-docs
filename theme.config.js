@@ -47,7 +47,7 @@ export default {
         rel="icon"
         type="image/png"
         sizes="96x96"
-        href="/openzoo96x96"
+        href="/openzoo96x96.png"
       />
       <link
         rel="icon"
